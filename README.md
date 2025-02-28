@@ -1,14 +1,5 @@
 # Flight Cancellations Analysis
 
-## Overview
-# Flight cancellations
-
-## Preprocessing
-
-## Visualization
-
-# Machine Learning
-
 ## Objective
 The primary objective of this project is to analyze flight cancellations to identify key contributing factors and predict future cancellations. This analysis aims to help airlines and passengers mitigate disruptions and improve overall operational efficiency.
 
